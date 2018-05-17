@@ -1,4 +1,4 @@
-fullstack-nanodegree-vm
+My repository for the nanodegree at udacity
 =============
 
-Common code for the Relational Databases and Full Stack Fundamentals courses
+
