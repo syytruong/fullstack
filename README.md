@@ -6,6 +6,7 @@ Needed:
   2. Vagrant: https://www.vagrantup.com/
   3. Flask: http://flask.pocoo.org/
   4. SQLAchemy: https://www.sqlalchemy.org/
+
 ===============
 1. Navigate to <directory> after you clone - Run vagrant up -> vagrant ssh
 2. In the VM prompt shell, direct to vagant folder by cd /vagrant
